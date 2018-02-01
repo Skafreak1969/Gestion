@@ -15,7 +15,7 @@ public class Controlador : MonoBehaviour {
 		
 	}
 
-    public void StartApp()
+    public void InicioApp()
     {
         SceneManager.LoadScene("Vista2");
     }

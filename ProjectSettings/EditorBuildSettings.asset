@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Vista2.unity
+    guid: e6d7e1ad096720143bd33086a88dfa2f
+  - enabled: 1
+    path: Assets/Main.unity
+    guid: ebcde10828f8eb941bc57e737a273481
