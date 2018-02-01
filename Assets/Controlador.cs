@@ -36,4 +36,9 @@ public class Controlador : MonoBehaviour {
     {
         SceneManager.LoadScene("PunkRock");
     }
+
+    public void BackButton()
+    {
+        SceneManager.LoadScene("Vista2");
+    }
 }
