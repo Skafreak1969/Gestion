@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/ProtoPunk.unity
+- path: Assets/StreetPunk.unity
   isLoaded: 1
   isActive: 1
