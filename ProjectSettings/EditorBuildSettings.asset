@@ -11,3 +11,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Main.unity
     guid: ebcde10828f8eb941bc57e737a273481
+  - enabled: 1
+    path: Assets/ProtoPunk.unity
+    guid: 3c5317f27256d9d46b1593652242c2df
+  - enabled: 1
+    path: Assets/PunkRock.unity
+    guid: 74f549bcb3395f443aa73856f8192fbb
+  - enabled: 1
+    path: Assets/SkatePunk.unity
+    guid: 6ad8036eacd7d60479a53b067fdbdebb
+  - enabled: 1
+    path: Assets/StreetPunk.unity
+    guid: ce7e3457f5205cb47bc67e03c0d86666

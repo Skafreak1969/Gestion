@@ -19,4 +19,21 @@ public class Controlador : MonoBehaviour {
     {
         SceneManager.LoadScene("Vista2");
     }
+
+    public void ProtoPunk()
+    {
+        SceneManager.LoadScene("ProtoPunk");
+    }
+    public void SkatePunk()
+    {
+        SceneManager.LoadScene("SkatePunk");
+    }
+    public void StreetPunk()
+    {
+        SceneManager.LoadScene("StreetPunk");
+    }
+    public void PunkRock()
+    {
+        SceneManager.LoadScene("PunkRock");
+    }
 }
