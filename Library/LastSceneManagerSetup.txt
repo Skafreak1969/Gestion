@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Vista2.unity
+- path: Assets/PunkRock.unity
   isLoaded: 1
   isActive: 1
