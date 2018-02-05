@@ -6,20 +6,32 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Main.unity
+    path: Assets/Scenes/Main.unity
     guid: ebcde10828f8eb941bc57e737a273481
   - enabled: 1
-    path: Assets/Vista2.unity
+    path: Assets/Scenes/Vista2.unity
     guid: e6d7e1ad096720143bd33086a88dfa2f
   - enabled: 1
-    path: Assets/StreetPunk.unity
+    path: Assets/Scenes/StreetPunk.unity
     guid: ce7e3457f5205cb47bc67e03c0d86666
   - enabled: 1
-    path: Assets/PunkRock.unity
+    path: Assets/Scenes/PunkRock.unity
     guid: 06d33822842e5c94186d902b2ebe1bad
   - enabled: 1
-    path: Assets/SkatePunk.unity
+    path: Assets/Scenes/SkatePunk.unity
     guid: 5523d813fdb8f184eaaac057211cb75e
   - enabled: 1
-    path: Assets/ProtoPunk.unity
+    path: Assets/Scenes/ProtoPunk.unity
     guid: 3ed11381418cf4b42acd1dea9c9850d5
+  - enabled: 1
+    path: Assets/Scenes/PlatStreet.unity
+    guid: 612a1e5c204b7c042a3c192e222ecc9a
+  - enabled: 1
+    path: Assets/Scenes/BlockBrkrSkate.unity
+    guid: 0c9a3ed7063965841b01ab248260272d
+  - enabled: 1
+    path: Assets/Scenes/BlockBrkrProto.unity
+    guid: d289a8bdc382c7242919cf16ff0a9d4e
+  - enabled: 1
+    path: Assets/Scenes/PlatRock.unity
+    guid: 897ae620d26cfe440b6ac1821ff0032c

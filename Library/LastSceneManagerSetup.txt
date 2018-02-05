@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/StreetPunk.unity
+- path: Assets/Scenes/PlatStreet.unity
   isLoaded: 1
   isActive: 1
